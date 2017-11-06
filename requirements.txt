@@ -1,0 +1,10 @@
+pandas
+numpy
+sklearn
+tqdm
+synapseclient
+matplotlib
+scipy
+seaborn
+argparse
+tsfresh

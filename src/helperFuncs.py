@@ -14,7 +14,7 @@ from scipy.signal import argrelextrema
 from sklearn.preprocessing import StandardScaler
 
 
-baseDIR = '/home/pataki/synapse/gitParkinson/' # base directory of the github repo
+#baseDIR = '/home/pataki/synapse/gitParkinson/' # base directory of the github repo
 
 def mainDFCreator(disease): # read the test and train metaFiles together
     trainDF = pd.read_csv(baseDIR + 'metaDB/trainMetaDF.tsv', sep='\t')
