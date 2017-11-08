@@ -5,6 +5,7 @@
 It is recommended to download as the github's PDF viewer doesn't render it properly.
 
 ## Instructions to run the code:
+Use _python 3.6.2_
 1. install the dependencies
 ```
 pip install -r requirements.txt

@@ -1,6 +1,6 @@
 pandas==0.21.0
 numpy==1.13.3
-sklearn==0.19.1
+scikit-learn==0.19.1
 tqdm==4.19.4
 synapseclient==1.7.2
 matplotlib==2.1.0
